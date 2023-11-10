@@ -1,0 +1,9 @@
+{
+  "repositories": [
+    {
+      "fullName": "DavidSdemocorp-mend/WebGoat",
+      "branchName": "main",
+      "scanType": "sca"
+    }
+  ]
+}
